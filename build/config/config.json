@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4C67e916C4F8c1DF015251F49e8356464fc33b97",
+  "SCAN_LINK": "https://polygonscan.com/token/0x4c67e916c4f8c1df015251f49e8356464fc33b97",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Mashed! Potato Club",
+  "SYMBOL": "Mashed! PotatoClub",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 40000000000000000000,
+  "DISPLAY_COST": 40,
+  "GAS_LIMIT": 2334586,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mashedpotatoclub",
+  "SHOW_BACKGROUND": true
+}
